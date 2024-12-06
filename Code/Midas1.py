@@ -1,0 +1,1 @@
+model = torch.hub.load('aditi/midas', 'midas_v21', trust_repo=True)
